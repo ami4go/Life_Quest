@@ -1,0 +1,125 @@
+.schedule {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+  padding: var(--space-lg) 1rem var(--space-2xl);
+}
+
+.schedule__header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+/* ── Tips ── */
+.schedule__tips {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.schedule__tip {
+  font-size: var(--font-size-sm);
+  color: var(--text-secondary);
+  display: flex;
+  gap: 0.5rem;
+  line-height: 1.5;
+}
+
+.schedule__tip-bullet {
+  color: var(--accent-primary);
+  flex-shrink: 0;
+}
+
+/* ── Content ── */
+.schedule__content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-base);
+}
+
+.schedule__greeting {
+  text-align: center;
+}
+
+/* ── Timeline ── */
+.schedule__timeline {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.schedule__item {
+  display: flex;
+  gap: 0.75rem;
+  min-height: 80px;
+}
+
+.schedule__item-time {
+  width: 55px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-top: 0.75rem;
+}
+
+.schedule__time-text {
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  color: var(--text-primary);
+  white-space: nowrap;
+}
+
+.schedule__duration {
+  font-size: 0.6rem;
+  color: var(--text-tertiary);
+}
+
+.schedule__item-line {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  width: 20px;
+}
+
+.schedule__item-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--accent-primary);
+  margin-top: 0.875rem;
+  flex-shrink: 0;
+  z-index: 1;
+}
+
+.schedule__item-dot--high {
+  background: var(--color-danger);
+  box-shadow: 0 0 8px rgba(239, 68, 68, 0.5);
+}
+
+.schedule__item-dot--medium {
+  background: var(--color-warning);
+}
+
+.schedule__item-dot--low, .schedule__item-dot--normal {
+  background: var(--accent-secondary);
+}
+
+.schedule__item-connector {
+  width: 2px;
+  flex: 1;
+  background: var(--border-glass);
+  margin-top: 0.25rem;
+}
+
+.schedule__item:last-child .schedule__item-connector {
+  display: none;
+}
+
+.schedule__item-content {
+  flex: 1;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+}

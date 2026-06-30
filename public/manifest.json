@@ -1,0 +1,19 @@
+{
+  "name": "LifeQuest AI",
+  "short_name": "LifeQuest",
+  "description": "A Game Engine for Real-Life Goals — AI-powered productivity with gamification",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "lifestyle", "games"]
+}
