@@ -8,7 +8,7 @@ Built for **Vibe2Ship 2026** — Problem Statement: *The Last-Minute Life Saver*
 
 🔗 **Live App:** https://lifequest-ai-1045306899439.asia-southeast1.run.app
 
-📦 **Repo:** https://github.com/ami4go/LifeQuest
+📦 **Repo:** https://github.com/ami4go/Life_Quest
 
 📝 **User Study:** https://forms.gle/NFJmCvDLEwDUe8XJ8
 
