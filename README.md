@@ -7,10 +7,12 @@ LifeQuest AI turns real-life goals into a role-playing game — **missions, ques
 Built for **Vibe2Ship 2026** — Problem Statement: *The Last-Minute Life Saver*.
 
 🔗 **Live App:** https://lifequest-ai-1045306899439.asia-southeast1.run.app
-📦 **Repo:** https://github.com/ami4go/LifeQuest
-📝 **User Study:** [Survey Link](https://docs.google.com/forms/d/e/1FAIpQLSeBqRJQCVbBWFNhE5ZKi5eyNYj8RxQGI_RvApxpjswvTRWIQA/viewform)
 
-> **📱 Best experienced on a mobile phone!**
+📦 **Repo:** https://github.com/ami4go/LifeQuest
+
+📝 **User Study:** https://forms.gle/NFJmCvDLEwDUe8XJ8
+
+> ** For Best experience use it on a mobile phone!**
 
 ---
 
@@ -20,7 +22,7 @@ Built for **Vibe2Ship 2026** — Problem Statement: *The Last-Minute Life Saver*
   <img src="Demo/dashboard.png" width="180" alt="Dashboard" />
   <img src="Demo/duels.png" width="180" alt="Duels Arena" />
   <img src="Demo/leaderboard.png" width="180" alt="Leaderboard" />
-  <img src="Demo/profile.png" width="180" alt="Profile & Archetypes" />
+  <img src="Demo/lele.png" width="180" alt="Profile & Archetypes" />
 </p>
 <p align="center">
   <em>Dashboard &nbsp;•&nbsp; Duels Arena &nbsp;•&nbsp; Global Leaderboard &nbsp;•&nbsp; Profile & Archetypes</em>
@@ -62,7 +64,7 @@ During onboarding, the AI diagnoses which archetype fits you. Every quest, tip, 
 | 😴 **Low Motivation** | Knows what to do, just can't start | Smallest possible first steps; heavy XP rewards for early momentum |
 
 <p align="center">
-  <img src="Demo/profile.png" width="220" alt="Archetype on Profile" />
+  <img src="Demo/lele.png" width="220" alt="Archetype on Profile" />
 </p>
 <p align="center"><em>Your diagnosed archetype appears on your Profile page</em></p>
 
